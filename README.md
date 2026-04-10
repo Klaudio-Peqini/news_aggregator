@@ -1,4 +1,4 @@
-# News Aggregator            
+# News Aggregator             
 
 A Next.js-based news aggregator app that fetches and displays news articles from various categories using the NewsAPI.
 
